@@ -1,0 +1,38 @@
+#main-title {
+  font-size: 48px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+p {
+  color: rgb(50, 50, 50);
+}
+.paragraph-one {
+  border: 2px solid lightgray;
+}
+.paragraph-two {
+  background-color: lightgray;
+}
+
+a {
+  color: orange;
+  text-decoration: none;
+}
+
+em { 
+  background-color: #f7e4c8;
+  font-style: normal;
+  font-weight: bold;
+}
+
+ul {
+  background-color: #f7e4c8;
+  border: 2px solid darkgrey;
+  border-radius: 8px;
+}
+
+h1, h2, p, a, em, li {
+  font-family: 'Courier New', Courier, monospace;
+}
